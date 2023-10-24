@@ -1,4 +1,4 @@
-# Introduction to Building AI Apps
+# Introduction to Building AI Apps - 90 min version
 
 This repository introduces and helps organizations get started with building AI Apps and incorporating Large Language Models (LLMs) into them.
 
